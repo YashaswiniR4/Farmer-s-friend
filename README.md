@@ -3,7 +3,7 @@
 **Faith-Driven • Farmer-Focused • Data-Secure**
 
 🌍 **Live Application**  
-👉 https://krushi-mitra-faith-platform.netlify.app  
+👉 https://rococo-halva-f1705f.netlify.app/
 
 This live system allows users to log in, upload crop images, view AI predictions, and generate agricultural reports.
 
